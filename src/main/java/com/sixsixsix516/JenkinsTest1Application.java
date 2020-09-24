@@ -16,6 +16,6 @@ public class JenkinsTest1Application {
 
 	@GetMapping
 	public String hello() {
-		return "Hello Jenkins!";
+		return "Hello Sun!";
 	}
 }
